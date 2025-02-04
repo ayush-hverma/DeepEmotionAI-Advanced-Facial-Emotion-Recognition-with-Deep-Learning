@@ -1,1 +1,2 @@
 # DeepEmotionAI-Advanced-Facial-Emotion-Recognition-with-Deep-Learning
+DeepEmotionAI is an advanced deep learning-based facial emotion recognition system. Utilizing a trained Keras model, the project classifies human emotions from images by leveraging convolutional neural networks (CNNs). The implementation includes robust image preprocessing, model training, and evaluation within a Jupyter Notebook framework. This project aims to enhance human-computer interaction by enabling AI-driven emotional intelligence.
